@@ -9,7 +9,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2018 Your Name"
+copyright = "&copy; Nissisoft"
 
 [params]
 
@@ -49,13 +49,13 @@ copyright = "&copy;2018 Your Name"
         text = "Blog"
         url = "https://rubot99.github.io/"
 
-      [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
+#      [[params.links.list1.link]]
+#        text = "Email"
+#        url = "#"
 
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+#      [[params.links.list1.link]]
+#        text = "Newsletter"
+#        url = "#"
 
   # Links List #2
   [[params.links]]
@@ -64,32 +64,32 @@ copyright = "&copy;2018 Your Name"
 
       [[params.links.list2.link]]
         text = "Twitter"
-        url = "#"
+        url = "https://twitter.com/rubot99"
 
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
+#      [[params.links.list2.link]]
+#        text = "Instagram"
+#        url = "#"
 
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+#      [[params.links.list2.link]]
+#        text = "Dribbble"
+#        url = "#"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Code"
 
       [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
+        text = "Github"
+        url = "https://github.com/rubot99"
 
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
+#      [[params.links.list3.link]]
+#        text = "Link Two"
+#        url = "#"
 
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+#      [[params.links.list3.link]]
+#        text = "Link Three"
+#        url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
